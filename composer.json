@@ -1,0 +1,18 @@
+{
+    "name": "dom-pixel/check",
+    "description": "This is check for use in all projects.",
+    "license": "MIT",
+    "type": "library",
+    "authors": [{
+        "name": "Juniel Filappi",
+        "email": "juniel123123@outlook.com"
+    }],
+    "require": {
+        "php": "^7.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Check\\": "support"
+        }
+    }
+}
