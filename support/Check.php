@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Support;
+namespace Check;
 
 /**
  * Check.class [ HELPER ]
